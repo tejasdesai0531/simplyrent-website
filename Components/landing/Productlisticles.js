@@ -3,7 +3,7 @@ export default function Productlisticles() {
     <div id="product_listicles" className="rm-product__listicles pb-0">
       <div className="rm-random__container rm-listicle__box">
         <div className="rm-main-head">
-          You'll love to
+          You all love to
           <span>take these home</span>
         </div>
         <div className="rm-slide__navigator rm-listicle__navigator">

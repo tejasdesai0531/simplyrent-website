@@ -6,7 +6,7 @@ export default function Benefitcontainer() {
           <div className="grid grid-rows grid-cols-6">
             <div className="col-md-12 col-sm-12 col-xs-12">
               <div className="rm-main-head">
-                There's more
+                There is more
                 <span>to renting</span>
               </div>
             </div>
@@ -17,7 +17,7 @@ export default function Benefitcontainer() {
                 <div className="rento-sprite rento-sprite-icon-finest__quality"></div>
                 <h3>Finest-quality products</h3>
                 <p>
-                  Quality matters to you, and us! That's why we do a strict
+                  Quality matters to you, and us! That is why we do a strict
                   quality-check for every product.
                 </p>
               </div>
@@ -27,7 +27,7 @@ export default function Benefitcontainer() {
                 <div className="rento-sprite rento-sprite-icon-free__relocation"></div>
                 <h3>Free relocation</h3>
                 <p>
-                  Changing your house or even your city? We'll relocate your
+                  Changing your house or even your city? We all relocate your
                   rented products for free.
                 </p>
               </div>
@@ -59,7 +59,7 @@ export default function Benefitcontainer() {
                 <div className="rento-sprite rento-sprite-icon-easy__return"></div>
                 <h3>Easy return on delivery</h3>
                 <p>
-                  If you don't like the product on delivery, you can return it
+                  If you do not like the product on delivery, you can return it
                   right away—no questions asked.
                 </p>
               </div>

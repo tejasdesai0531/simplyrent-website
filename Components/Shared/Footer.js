@@ -304,6 +304,7 @@ export default function Footer() {
                     className="pull-right"
                     width="10"
                     height="10"
+                    alt="minus icon"
                   ></Image>
                 </h2>
                 <h2 className="hidden-sm hidden-xs">Policies</h2>
@@ -347,6 +348,7 @@ export default function Footer() {
                     className="pull-right"
                     width="10"
                     height="10"
+                    alt="minus-icon"
                   ></Image>
                 </h2>
                 <ul className="rm-contact__options">

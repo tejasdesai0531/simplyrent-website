@@ -46,7 +46,7 @@ export default function Header() {
         style={{ width: "80%" }}
       >
         <a href="https://flowbite.com/" className="flex items-center">
-          <img
+          <Image
             src="https://flowbite.com/docs/images/logo.svg"
             className="h-6 mr-3 sm:h-9"
             alt="Flowbite Logo"
@@ -94,6 +94,7 @@ export default function Header() {
                       <li
                         className=" inline-block text-center cityContainer"
                         id={city.id}
+                        key={city.id}
                       >
                         <a href="#" className="block px-4 py-2">
                           <Image

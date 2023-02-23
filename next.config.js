@@ -13,6 +13,6 @@ module.exports = {
     //   },
     // ],
 
-    domains: ["https://simply-rent.s3.ap-south-1.amazonaws.com"],
+    domains: ["simply-rent.s3.ap-south-1.amazonaws.com"],
   },
 };
